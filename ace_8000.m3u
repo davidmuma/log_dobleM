@@ -1,0 +1,209 @@
+#EXTM3U Acestream Deportes 26/07/2022 19:00
+#EXTINF:-1 tvg-id="LaLiga Tv Bar 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",LaLiga Tv Bar 1080 
+http://127.0.0.1:8000/pid/01b333b9369c662775902638ef8cffac346a0f61/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 1080 MultiAudio 
+http://127.0.0.1:8000/pid/167e3b44a520cd76d4372f6d30fe6d7ccd524175/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 720 
+http://127.0.0.1:8000/pid/df139bbcd7ae6825b46d5955c52d639f1215346a/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 1 1080 
+http://127.0.0.1:8000/pid/4229d640fecf3c0897674241bcf851b67f4310e3/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 2 1080 
+http://127.0.0.1:8000/pid/ed147166c7df93f7aecba44d4e2fc9383d028218/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 3 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 3 1080 
+http://127.0.0.1:8000/pid/2075cf1c981654a5772d8508ecce044375d9ba38/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 4 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 4 1080 
+http://127.0.0.1:8000/pid/2c3a3a5b81b5fbe2345eccacad509ced55de828a/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 5 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 5 1080 
+http://127.0.0.1:8000/pid/699d5ea3b0132a0e9c2c381a86a669b77384977c/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 6 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 6 1080 
+http://127.0.0.1:8000/pid/8021cba61d1e0891a41a6c3334f947360000dc8e/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 7 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. LaLiga 7 1080 
+http://127.0.0.1:8000/pid/1c0bb99925a0d18e075c2fe2cd7cb50946554ab1/stream.mp4
+#EXTINF:-1 tvg-id="#Vamos 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",#Vamos 1080 
+http://127.0.0.1:8000/pid/069431a1199eb2545a14c0a724095e57bdc58e9c/stream.mp4
+#EXTINF:-1 tvg-id="#Vamos SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",#Vamos SD 
+http://127.0.0.1:8000/pid/62c233d8b51fde8ee462d8c12933a02200e889fe/stream.mp4
+#EXTINF:-1 tvg-id="Ellas #V 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Ellas #V 1080 
+http://127.0.0.1:8000/pid/96b091c006f02bb1ca80743905b2cffded8bc8b0/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 1080 
+http://127.0.0.1:8000/pid/49acacbbbcf33be6e843958ceedc7da8dd4f1486/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 720 
+http://127.0.0.1:8000/pid/a252bf555d5ae92cce49393a5ae28fe9874526de/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 1 1080 
+http://127.0.0.1:8000/pid/c47f756750190e4b2a9eefe8afdac48a2203b8d6/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 2 1080 
+http://127.0.0.1:8000/pid/85bd65161dfd8c4033194da3c978c0450c9111db/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 3 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 3 1080 
+http://127.0.0.1:8000/pid/0c8935087510ee1c5117243a6cc46f9d6d795faf/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 4 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 4 1080 
+http://127.0.0.1:8000/pid/478833f6390f04e95c6d94180a784b78ad540d2f/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 5 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 5 1080 
+http://127.0.0.1:8000/pid/5da3c25c14d111cb9c33cf6e0b45b7cab88fe741/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 6 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 6 SD 
+http://127.0.0.1:8000/pid/b779e6056975e3682a804d47cbd5cc806217f64d/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 7 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Deportes 7 720 
+http://127.0.0.1:8000/pid/5332bb2816154565c8953257da07c2dcb46fccca/stream.mp4
+#EXTINF:-1 tvg-id="M.L. Campeones 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M.L. Campeones 1080 
+http://127.0.0.1:8000/pid/aedf221240a0f8513d90b555bf1b6e5306ac1e76/stream.mp4
+#EXTINF:-1 tvg-id="M.L. Campeones 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M.L. Campeones 720 
+http://127.0.0.1:8000/pid/f8d89bf80b813631e6eb85fc8c185b00fe9ab88d/stream.mp4
+#EXTINF:-1 tvg-id="M.L. Campeones 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M.L. Campeones 1 1080 
+http://127.0.0.1:8000/pid/9b76d0739f87555ccd3f42fc8e548762a0b94c28/stream.mp4
+#EXTINF:-1 tvg-id="M.L. Campeones 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M.L. Campeones 2 1080 
+http://127.0.0.1:8000/pid/612eed86f1ec250ebff3649e74e6729687c456f7/stream.mp4
+#EXTINF:-1 tvg-id="M.L. Campeones 3 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M.L. Campeones 3 SD 
+http://127.0.0.1:8000/pid/a5d22610cb7bd5608c14249e3984bacb54dfe487/stream.mp4
+#EXTINF:-1 tvg-id="M.L. Campeones 4 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M.L. Campeones 4 SD 
+http://127.0.0.1:8000/pid/8446f55486c0d8c39c7dda19f8dfb071ddca4c94/stream.mp4
+#EXTINF:-1 tvg-id="M. Golf 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",M. Golf 1080 
+http://127.0.0.1:8000/pid/4f945b0ba4206fa2676b61e9eaa465ac3dcc8122/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN 1 1080 
+http://127.0.0.1:8000/pid/d4d4200a1e52fc23940b2dde915600af7e9a6b05/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 1 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN 1 720 
+http://127.0.0.1:8000/pid/9f27ea73230f9c65034601636dbfe39de43a8212/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN 2 1080 
+http://127.0.0.1:8000/pid/42fea4e172bf3debe0e004260bdd077fe0b4f58e/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 2 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN 2 720 
+http://127.0.0.1:8000/pid/6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 3 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN 3 1080 
+http://127.0.0.1:8000/pid/bfbcda5a0999256360ce560caf2a6473aafc3f11/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 4 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN 4 1080 
+http://127.0.0.1:8000/pid/3634ae8e7443f637222e0255f0fc70bf3f050e64/stream.mp4
+#EXTINF:-1 tvg-id="DAZN F1 1080 (Fórmula 1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN F1 1080 (Fórmula 1) 
+http://127.0.0.1:8000/pid/c372020ed2744033f56548b6beb11a9f3e740f37/stream.mp4
+#EXTINF:-1 tvg-id="DAZN F1 1080 (Fórmula 1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN F1 1080 (Fórmula 1) 
+http://127.0.0.1:8000/pid/5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2/stream.mp4
+#EXTINF:-1 tvg-id="DAZN F1 720 (Fórmula 1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN F1 720 (Fórmula 1) 
+http://127.0.0.1:8000/pid/12e7fb26141ec4a6d99588e0e870a1a441b37f83/stream.mp4
+#EXTINF:-1 tvg-id="EuroSport 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",EuroSport 1 1080 
+http://127.0.0.1:8000/pid/40da37534656efcc6179c1b7693335d5e8212e43/stream.mp4
+#EXTINF:-1 tvg-id="EuroSport 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",EuroSport 2 1080 
+http://127.0.0.1:8000/pid/1954779c721fc7d87eb6d7df7ab11bf751cebb3b/stream.mp4
+#EXTINF:-1 tvg-id="GOL TV 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",GOL TV 1080 
+http://127.0.0.1:8000/pid/49c35606668ebf7a895434ec4c9243a163d87718/stream.mp4
+#EXTINF:-1 tvg-id="tdp 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",tdp 1080 
+http://127.0.0.1:8000/pid/a537d162cb8c5cfa72c09be09ecac69e2f2cc535/stream.mp4
+#EXTINF:-1 tvg-id="LA 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",LA 1 1080 
+http://127.0.0.1:8000/pid/b41d52a733be6f4709db3bdf33e260de2b67d27a/stream.mp4
+#EXTINF:-1 tvg-id="CUATRO 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",CUATRO 1080 
+http://127.0.0.1:8000/pid/36e777b34e35460f4fd72d9583a2f8c0598d7ec2/stream.mp4
+#EXTINF:-1 tvg-id="Sport Tv 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Sport Tv 1 1080 
+http://127.0.0.1:8000/pid/56bb17b376ec52b5e58679d87ed2bd9e70be2175/stream.mp4
+#EXTINF:-1 tvg-id="Sport Tv 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Sport Tv 2 1080 
+http://127.0.0.1:8000/pid/b402a5fc3d93860c7f4a9c46463ff5469b6436f6/stream.mp4
+#EXTINF:-1 tvg-id="Sport Tv 3 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Sport Tv 3 1080 
+http://127.0.0.1:8000/pid/3c81c395fc9385c650e0fba8c286935c594f7e1a/stream.mp4
+#EXTINF:-1 tvg-id="beIN SPORTS ñ 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",beIN SPORTS ñ 1080 
+http://127.0.0.1:8000/pid/cc77ee9a408eeb940d3875fa92fc5dd783ef8363/stream.mp4
+#EXTINF:-1 tvg-id="ESPN 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",ESPN 720 
+http://127.0.0.1:8000/pid/5ae9afd963961cd07e8f690e44a6596a2bb4e51e/stream.mp4
+#EXTINF:-1 tvg-id="Evento del Momento 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Evento del Momento 1080 
+http://127.0.0.1:8000/pid/04d5c2b7b567ec8db62aa5f9d46455a7c189b546/stream.mp4
+#EXTINF:-1 tvg-id="Evento del Momento 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",Evento del Momento 1080 
+http://127.0.0.1:8000/pid/4ba518a2033903c02e8d2d177630719c5105e320/stream.mp4
+#EXTINF:-1 tvg-id="DAZN F1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN F1 1080 
+http://127.0.0.1:8000/pid/51100d7c6c1dce3ccda3a6478ec65b187700fd1b/stream.mp4
+#EXTINF:-1 tvg-id="#0 de Movistar 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",#0 de Movistar 1080 
+http://127.0.0.1:8000/pid/864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2/stream.mp4
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",test 
+http://127.0.0.1:8000/pid/53e45f3268f6b3eef669da192832f896aa324b73/stream.mp4
+#EXTINF:-1 tvg-id="720 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",720 2 
+http://127.0.0.1:8000/pid/575e085a4fbc30cdacf1b1ed06af48aca81fc264/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 1 720 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN 1 720 2 
+http://127.0.0.1:8000/pid/9eacd24bf195139bd23d55670d7a78a294f55433/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 3 1080 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DAZN 3 1080 2 
+http://127.0.0.1:8000/pid/bf977ed3dbf661329f9aa0eb79849484e01562d2/stream.mp4
+#EXTINF:-1 tvg-id="kos1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",kos1 
+http://127.0.0.1:8000/pid/78348f6597d974376b2e6d85993bb0e71cb27af7/stream.mp4
+#EXTINF:-1 tvg-id="kos 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",kos 2 
+http://127.0.0.1:8000/pid/50b32fc0d7db4297f32914c7dc807493d0581ca6/stream.mp4
+#EXTINF:-1 tvg-id="DEP 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",DEP 720 1 
+http://127.0.0.1:8000/pid/7e0a1eb0a1138b3d56289d1a6bf04233f0bb4806/stream.mp4
+#EXTINF:-1 tvg-id="VAMOS 1080 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",VAMOS 1080 2 
+http://127.0.0.1:8000/pid/2dbea1288c3bad4a8faab395249fb5e5edfde4b6/stream.mp4
+#EXTINF:-1 tvg-id="VAMOS 1080 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",VAMOS 1080 3 
+http://127.0.0.1:8000/pid/db2087af8267c5d62cc08384eeb63c460cdc7218/stream.mp4
+#EXTINF:-1 tvg-id="VAMOS 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",VAMOS 720 1 
+http://127.0.0.1:8000/pid/18968ec133b152ee9754fce7c93903c1c5d23cf4/stream.mp4
+#EXTINF:-1 tvg-id="VAMOS 720 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",VAMOS 720 2 
+http://127.0.0.1:8000/pid/e0a46af4520e6d19e0d39767e82862cc443a83d9/stream.mp4
+#EXTINF:-1 tvg-id="EU 1 1080 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",EU 1 1080 2 
+http://127.0.0.1:8000/pid/6a94ea3576f1ee5fc0e512c48ee2fe663972a386/stream.mp4
+#EXTINF:-1 tvg-id="EU 1 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",EU 1 720 1 
+http://127.0.0.1:8000/pid/89fc5d6c3eb483c523a5af10f6fcf996aa3a8416/stream.mp4
+#EXTINF:-1 tvg-id="EU 2 1080 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",EU 2 1080 2 
+http://127.0.0.1:8000/pid/f6a99c8826e81e0a6f0dde923deeccd2827d43b3/stream.mp4
+#EXTINF:-1 tvg-id="SPRIN ITALIA F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",SPRIN ITALIA F1 
+http://127.0.0.1:8000/pid/7ddf0db4610cc86f0717c00583966db5f63076d7/stream.mp4
+#EXTINF:-1 tvg-id="f1 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",f1 3 
+http://127.0.0.1:8000/pid/e8829f571f805c8783b9e277856bec2deb22513b/stream.mp4
+#EXTINF:-1 tvg-id="f1 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",f1 720 1 
+http://127.0.0.1:8000/pid/af31fdaed4577336a29bd5e34ab5e192e593db29/stream.mp4
+#EXTINF:-1 tvg-id="sky f1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",sky f1 
+http://127.0.0.1:8000/pid/fc4a67bd0909fe92011041cb51a6a32a2063908f/stream.mp4
+#EXTINF:-1 tvg-id="sky f1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",sky f1 
+http://127.0.0.1:8000/pid/287b45d67f058b737518f2f51226e78d530baeae/stream.mp4
+#EXTINF:-1 tvg-id="curvaweb" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",curvaweb 
+http://127.0.0.1:8000/pid/875b2d85b624abf9fae58e41c5ed9fe612c3794d/stream.mp4
+#EXTINF:-1 tvg-id="TDP 720 1 " tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",TDP 720 1  
+http://127.0.0.1:8000/pid/75bb9c74eecbd508a30b3f308f62938180062c6d/stream.mp4
+#EXTINF:-1 tvg-id="T5 1080 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",T5 1080 1 
+http://127.0.0.1:8000/pid/ed3ee6fbb006c40ca5cefb2f40f473dca1b7a366/stream.mp4
+#EXTINF:-1 tvg-id="GOL 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",GOL 720 1 
+http://127.0.0.1:8000/pid/48707faffadea47e6f6baa0f4d6c8c3a40965570/stream.mp4
+#EXTINF:-1 tvg-id="GOL 720 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",GOL 720 2 
+http://127.0.0.1:8000/pid/764ef33d74975b1fbea88a6f95dae91682143deb/stream.mp4
+#EXTINF:-1 tvg-id="BEIN 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",BEIN 720 1 
+http://127.0.0.1:8000/pid/b5c017e94b72013902c02f6d145c77f753bc3e12/stream.mp4
+#EXTINF:-1 tvg-id="E3 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",E3 720 1 
+http://127.0.0.1:8000/pid/fb26b0ccd240345a7530f354b825dd9672611377/stream.mp4
+#EXTINF:-1 tvg-id="BARCA 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",BARCA 720 1 
+http://127.0.0.1:8000/pid/31fcaafcf0b516eb2723250f744f966b6b40cc2c/stream.mp4
+#EXTINF:-1 tvg-id="R MADR 720 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",R MADR 720 1 
+http://127.0.0.1:8000/pid/026fd926df4971f2801c185f204d9f8b185a4d58/stream.mp4
+#EXTINF:-1 tvg-id="R MADR 720 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",R MADR 720 2 
+http://127.0.0.1:8000/pid/1be2b7603c0735a2c6ed50b0f99142a46eb323ad/stream.mp4
+#EXTINF:-1 tvg-id="tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",tudn 
+http://127.0.0.1:8000/pid/c32adec51b796a58fc484f99456b035cde188c2a/stream.mp4
+#EXTINF:-1 tvg-id="SPORT TV1 1080 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",SPORT TV1 1080 1 
+http://127.0.0.1:8000/pid/3092996191aa30c04085bc5b0dec198dcfc11d6f/stream.mp4
+#EXTINF:-1 tvg-id="SPORT TV1 1080 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",SPORT TV1 1080 2 
+http://127.0.0.1:8000/pid/15894eb997a5a8fcbff7aeba0484208c043f9bef/stream.mp4
+#EXTINF:-1 tvg-id="SPORT TV3 1080 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",SPORT TV3 1080 1 
+http://127.0.0.1:8000/pid/4d78fadc6701008fb528202d9671e1d0f2acd486/stream.mp4
+#EXTINF:-1 tvg-id="nba tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",nba tv 
+http://127.0.0.1:8000/pid/30973e4a87cb92c85430bce617736c64a9e2fb32/stream.mp4
+#EXTINF:-1 tvg-id="nba tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",nba tv 
+http://127.0.0.1:8000/pid/83a49464837d0be5730717e70a1234ceb27395a4/stream.mp4
+#EXTINF:-1 tvg-id="channel golf" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",channel golf 
+http://127.0.0.1:8000/pid/9a93d0291ab848781d6b42f73eebc3a7ec0578b5/stream.mp4
+#EXTINF:-1 tvg-id="tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",tudn 
+http://127.0.0.1:8000/pid/958a228fbcdac80a19cd3d88ef402c0e50ccca87/stream.mp4
+#EXTINF:-1 tvg-id="tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",tudn 
+http://127.0.0.1:8000/pid/da68ee02776cd18de9727bb1e6eb88c3d5cbe1b2/stream.mp4
+#EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",7 
+http://127.0.0.1:8000/pid/75d20d85da02925145beb734038791e59622952c/stream.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",3 
+http://127.0.0.1:8000/pid/b6035d6c3e25776479b5000ece8a080dd8b4c679/stream.mp4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",4 
+http://127.0.0.1:8000/pid/11b6aa16e978a409504b9e3e9c3b29c56f392bdf/stream.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",3 
+http://127.0.0.1:8000/pid/73c4008c455fc900d6e1d4c53ed4958a641295dc/stream.mp4
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",5 
+http://127.0.0.1:8000/pid/5817f9d710d682fe975a16c47306bfdced437319/stream.mp4
+#EXTINF:-1 tvg-id="8" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",8 
+http://127.0.0.1:8000/pid/afda7ad25cf53be75a9da094d6778077673d705e/stream.mp4
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",5 
+http://127.0.0.1:8000/pid/b81cea9e918e1f99d213dda75105bcda529df3ff/stream.mp4
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",5 
+http://127.0.0.1:8000/pid/445fe5255504241de5eec52b092a8043a83118f5/stream.mp4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",4 
+http://127.0.0.1:8000/pid/c801884026f2680238a05094d9fb15804dc80b64/stream.mp4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",4 
+http://127.0.0.1:8000/pid/65da3c02a26f49da2e44652cea255800527aeffd/stream.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",3 
+http://127.0.0.1:8000/pid/b9b5a52abc21a74cd082649c946ea94fe13f80fa/stream.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",3 
+http://127.0.0.1:8000/pid/9da24d440f0d023b127a1dd18ae1ebbe29ed6f9e/stream.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",3 
+http://127.0.0.1:8000/pid/c4362aac9a424878e684766120548629a0ff2bce/stream.mp4
